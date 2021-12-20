@@ -1,0 +1,1 @@
+# collective-nft-contract
